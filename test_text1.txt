@@ -8,3 +8,5 @@ test3
 conflict-text
 
 dev2-3
+
+a
